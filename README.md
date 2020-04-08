@@ -1,4 +1,4 @@
 # gitRepo_1
 just fun
 
-merge conflict
+intentioan merge conflict induced
